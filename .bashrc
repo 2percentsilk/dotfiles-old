@@ -92,7 +92,7 @@ alias ll='ls -l'
 #alias la='ls -A'
 #alias l='ls -CF'
 alias serve='npx http-server .'
-alias party='npx nyancat'
+alias partytime='npx nyancat'
 alias gpom='git push origin master'
 
 # Alias definitions.
